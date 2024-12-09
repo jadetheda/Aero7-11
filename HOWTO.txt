@@ -3,6 +3,9 @@ THEME:
 2. Extract it to C:\Windows\Resources\Themes
 3. Use SecureUX ThemeTool or UltraUX Theme Patcher to apply the theme
 
+SHELLSTYLE:
+There is a shellstyle for some extra customization. Use OldNewExplorer to use this.
+
 BORDERS:
 If you want borders, you will need Windhawk, MicaForEveryone, and OpenGlass.
 1. Download OpenGlass, install it, and start it up.
