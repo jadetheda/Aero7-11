@@ -9,5 +9,8 @@ This is made on the default aero.msstyles in Windows 11. This was made and teste
 
 If you want the borders, you should go into Windhawk's advanced settings and add dwm.exe to the include list.
 
+>[!WARNING]
+>I recommend using light app mode and dark Windows mode. This does *NOT* have support for dark app mode. The Windows mode is unaffected, but most taskbar mods work better on dark base than light base.
+
 ## Credits
 This is not truly my own theme, I have basically meshed parts of multiple different themes together. The mod is based off of teknixstuff's "Bring Back the Borders!" mod.
