@@ -16,7 +16,7 @@ NOTICE: These borders use a trick that is not the best quality. A better option 
 
 ## Screenshot:
 ![PNG image](https://github.com/user-attachments/assets/8b92d79d-761a-4fd7-baff-46d5ee6d43a9)
-This is an early screenshot. I should get an updated version at some point, but this shows the theme in action. As you can see, it's not 1:1, and unfortunately due to issues I won't be able to make it 1:1 with my current tool.
+This is an early screenshot. I should get an updated version at some point, but this shows the theme in action. As you can see, it's not 1:1, and unfortunately due to issues I won't be able to make it 1:1 with my current tool. Note that the dark spots in the corners are because of Snipping Tool, and are NOT present in the actual theme if applied right.
 
 ## Credits
 This is not truly my own theme, I have basically meshed parts of multiple different themes together. The mod is based off of teknixstuff's "Bring Back the Borders!" mod.
