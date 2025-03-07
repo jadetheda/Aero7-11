@@ -2,14 +2,12 @@
 Aero 7 theme for Windows 11 23H2+
 
 ## Notes
-This is made on the default aero.msstyles in Windows 11. This was made and tested on Windows 11 23H2.
+This is made on the default aero.msstyles in Windows 11. This was made and tested on Windows 11 23H2 and 24H2.
 >[!TIP]
->Accent color on the borders is very wierd. If OpenGlass is started before the Windhawk mod, the accent color will show. However, if OpenGlass starts (or restarts) after the Windhawk mod is active, the color will not show on borders.
+>When using OpenGlass, if OpenGlass is started before the Windhawk mod the accent color will show. However, if OpenGlass starts (or restarts) after the Windhawk mod is active, the color will not show on borders.
 >If you are not using OpenGlass or DWMBlurGlass, disable the Mica or Acrylic effects in MicaForEveryone, and set your accent color to show on title bars and borders in Settings.
 
 If you want the borders, you should go into Windhawk's advanced settings and add dwm.exe to the include list.
-
-NOTICE: I am working on a major update. It should be out soon.
 
 >[!WARNING]
 >I recommend using light app mode and dark Windows mode. This does *NOT* have support for dark app mode. The Windows mode is unaffected, but most taskbar mods work better on dark base than light base.
