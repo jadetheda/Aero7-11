@@ -1,0 +1,18 @@
+==========HOW TO APPLY GLASS==========
+
+DWMBlurGlass:
+Works with either form of borders
+1: Install DWMBlurGlass
+2: Make sure to go to the symbols tab and download symbols
+3: Apply it as normal
+
+OpenGlass with Windhawk mod:
+1. Download OpenGlass, install it, and start it up.
+2: Set MicaForEveryone in mica or acrylic mode to apply to borders.
+
+OpenGlass with uDWM patch:
+1: Install OpenGlass and start it up.
+2: Go to Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\DWM in regedit
+3: Make sure a DWORD called "GlassOverrideBorder" exists and is set to 1
+
+Note: For OpenGlass users an experimental reg file is available. It is not unstable, it is just that the Aero look still seems a little off. Anyone who can help make it better, anything will help!

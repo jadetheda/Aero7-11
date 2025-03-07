@@ -1,0 +1,8 @@
+==========HOW TO APPLY WINDHAWK MOD==========
+You will need Windhawk to apply
+
+1. In Windhawk, create a custom mod using the code found in "Borders\Windhawk Mod\Mod.wh.cpp".
+2. Compile and activate it. You may need to turn it on and off a few times for it to lock in.
+3. The borders should work. You may get errors on startup saying OpenGlass cannot work, but it seems fine.
+
+Note: the borders will look weird if you have mica/acrylic effects without OpenGlass or DWMBlurGlass! Use one of these, preferably instead of mica effects

@@ -1,0 +1,25 @@
+==========THEME==========
+1: Copy everything from the included Theme folder to C:\Windows\Resources\Themes
+2. Use SecureUX ThemeTool or UltraUX Theme Patcher to apply the theme
+
+WHICH THEME DO I USE?
+That depends on the borders and your preferences
+ - I recommend using square if you are using the Windhawk mod, and round if you are using uDWM patch
+   - If you are not applying borders, either will work
+ - Small title bar buttons will allow smaller buttons, but will look extra small when maximized
+
+==========BORDERS==========
+You have two options for borders:
+1: Windhawk Mod
+ - This is easier/safer to apply as you are not manually editing system files
+ - However, it is a lower quality mod
+ - Instructions are in "Border\Windhawk Mod" folder
+2: uDWM Patch
+ - This is harder to apply as you must manually apply the file
+ - When applied, it is higher quality, and less likely to bug out
+ - Instructions are in "Border\uDWM Patch" folder
+
+==========GLASS==========
+This has the most options: DWMBlurGlass, OpenGlass, and MicaForEveryone
+I had better luck with DWMBlurGlass + MicaForEveryone with the Windhawk mod
+However, with the uDWM patch OpenGlass on its own works well

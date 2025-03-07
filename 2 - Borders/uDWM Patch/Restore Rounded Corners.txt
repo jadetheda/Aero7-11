@@ -1,0 +1,12 @@
+==========HOW TO RESTORE ROUNDED CORNERS==========
+
+The uDWM patch sets DWM back to the Windows 10 look and feel. This includes square corners. Unfortunately, MicaForEveryone's options for rounded corners don't work. Instead, you must use a different method.
+
+1: Go to "sysdm.cpl"
+2: Turn go to advanced settings for performance and turn off window shadows
+3: Make sure you are using a theme with rounded corners
+4: Make sure OpenGlass is installed
+5: In regedit, go to Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\DWM
+6: Find the DWORD labeled "RoundRectRadius". If it does not exist, create it.
+7: Set it to 0x5 (5 in Hex, not Decimal)
+8: Restart OpenGlass
