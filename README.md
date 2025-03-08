@@ -2,6 +2,9 @@
 Aero 7 theme for Windows 11 23H2+
 
 ## Notes
+
+THE uDWM patch folder labeled 21H2 will NOT work on 21H2. It should be for 22H2!
+
 This is made on the default aero.msstyles in Windows 11. This was made and tested on Windows 11 23H2 and 24H2.
 >[!TIP]
 >When using OpenGlass, if OpenGlass is started before the Windhawk mod the accent color will show. However, if OpenGlass starts (or restarts) after the Windhawk mod is active, the color will not show on borders.
