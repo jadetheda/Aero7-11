@@ -16,8 +16,9 @@ If you want the borders, you should go into Windhawk's advanced settings and add
 >I recommend using light app mode and dark Windows mode. This does *NOT* have support for dark app mode. The Windows mode is unaffected, but most taskbar mods work better on dark base than light base.
 
 ## Screenshot:
-![PNG image](https://github.com/user-attachments/assets/8b92d79d-761a-4fd7-baff-46d5ee6d43a9)
-This is an early screenshot. I should get an updated version at some point, but this shows the theme in action. As you can see, it's not 1:1, and unfortunately due to issues I won't be able to make it 1:1 with my current tool. Note that the dark spots in the corners are because of Snipping Tool, and are NOT present in the actual theme if applied right.
+![image](https://github.com/user-attachments/assets/48751eb9-c8cf-402e-965e-22f5951d2337)
+
+Here's the theme in action. As you can see, it's not 1:1, and unfortunately due to issues I won't be able to make it 1:1 with my current tool.
 
 ## Credits
 This is not truly my own theme, I have basically meshed parts of multiple different themes together. The mod is based off of teknixstuff's "Bring Back the Borders!" mod.
