@@ -48,7 +48,7 @@ WallpaperStyle=10
 Pattern=
 
 [VisualStyles]
-Path=%ResourceDir%\Themes\aero7-11\aero7-11-square-small-title.msstyles
+Path=%ResourceDir%\Themes\aero7-11\aero7-11 square small-title.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
 AutoColorization=0

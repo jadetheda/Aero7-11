@@ -48,7 +48,7 @@ WallpaperStyle=10
 Pattern=
 
 [VisualStyles]
-Path=%ResourceDir%\Themes\aero7-11\aero7-11-round.msstyles
+Path=%ResourceDir%\Themes\aero7-11\aero7-11 round.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
 AutoColorization=0
