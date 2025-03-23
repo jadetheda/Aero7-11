@@ -21,4 +21,16 @@ If you want the borders, you should go into Windhawk's advanced settings and add
 Here's the theme in action. As you can see, it's not 1:1, and unfortunately due to issues I won't be able to make it 1:1 with my current tool.
 
 ## Credits
-This is not truly my own theme, I have basically meshed parts of multiple different themes together. The mod is based off of teknixstuff's "Bring Back the Borders!" mod.
+
+This theme is "Open Source" in that it is open for anyone to use and edit. I do not place any restrictions or payment on this.
+
+Anyone can create a copy or redistribute this. However, the only stipulation is that it must remain free and that all of the following people must be credited for their contributions to Windows customization:
+
+ - teknixstuff: Created the original "Bring Back the Borders!" mod on Windhawk, based on Ittr's uDWM patches.
+ - Zee-Ay (Za9-118): Contibuted the Shellstyle dll.
+ - vaporvance: Created the Shellstyle dll in the original Aero10 theme.
+ - Ittr: Created the uDWM.dll patch included.
+ - All Windows 7 Aero theme for Windows 10/11 developers: I took bits from various such themes.
+
+I cannot take credit for this theme, except in a few very places. I just took the Windows 7 designs, merged them with the Windows 11 aero.msstyles, then put everything into one place to implement it. I do this with the hope that it will help Windows 11 user looking for a good Windows 7 theme for their system.
+
