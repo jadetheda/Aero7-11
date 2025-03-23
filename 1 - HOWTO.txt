@@ -1,10 +1,11 @@
 ==========THEME==========
-1: Copy everything from the included Theme folder to C:\Windows\Resources\Themes
+1: Copy everything from the included Theme folder to "C:\Windows\Resources\Themes".
 2. Use SecureUXTheme, UltraUXThemePatcher, or the UxTheme Hook Windhawk mod to apply the theme.
 
 WHICH THEME DO I USE?
-That depends on the borders and your preferences
- - Small title bar buttons will allow smaller buttons, but will look extra small when maximized
+That depends your preferences:
+ - Small title bar buttons will allow smaller buttons, but will look extra small when maximized.
+ - Square corners will have square border corners. 
 
 ==========BORDERS==========
 You have two options for borders:
@@ -19,7 +20,7 @@ You have two options for borders:
 
 ==========GLASS==========
 
-This has the most options: DWMBlurGlass, OpenGlass, and MicaForEveryone
+This has the most options: DWMBlurGlass, OpenGlass, and MicaForEveryone.
 
 DWMBlurGlass is the most compatible with Windows 11, having Windows 7 caption sizes and glow built in.
 OpenGlass is more stable but lacks these features.
