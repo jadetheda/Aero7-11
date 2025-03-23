@@ -6,7 +6,7 @@ CLOUD STORAGE BEFORE ATTEMPTING TO USE THIS METHOD!!!
 Applying:
 1: Get your OS version (21h2, 22h2, 23h2, or 24h2)
 2: Open command prompt as TrustedInstaller
- - You can use ExecTI, PSExec, gsudo, or anything else that offers TrustedInstaller priveleges
+ - You can use ExecTI, PSExec, gsudo, or anything else that offers TrustedInstaller privileges
 3: Switch to C:\Windows\System32
 4: *RENAME* uDWM.dll to uDWM.dll.old
  - *DO NOT DELETE IT!* You will want a backup if something goes wrong!

@@ -1,0 +1,6 @@
+==========HOW TO APPLY WINDHAWK MOD==========
+You will need Windhawk to apply
+
+1. In Windhawk, search for the "Bring Back The Borders!" mod.
+2. Download and enable it.
+3. The borders and shadows should work.

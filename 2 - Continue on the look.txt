@@ -4,7 +4,7 @@ This theme pack only tries to change the colors, transparency, and in a few case
 
 1: ExplorerPatcher: If you want to do anything fixing File Explorer and the Taskbar, this is a great place to start
 
-2: OldNewExplorer: This can help get some Aero/Windows 7 options back in FileExplorer
+2: Aerexplorer: This Windhawk mod can help get some Windows 7 features and looks back in File Explorer. It works up to Windows 11 23H2.
 
 3: OpenShell: Free start menu option.
 
