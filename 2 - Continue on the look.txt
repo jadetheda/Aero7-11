@@ -8,6 +8,6 @@ This theme pack only tries to change the colors, transparency, and in a few case
 
 3: OpenShell: Free start menu option.
 
-4: StartIsBack++: This works well with ExplorerPatcher, at least it did in 23H2. I highly recommend NOT using StartAllBack, as it will mess up the File Explorer theme. It is paid, although easy to get an infinite trial if need be. But if you can, pay and support the creator, please.
+4: StartIsBack++: This works well with ExplorerPatcher until 23H2. DO NOT USE ON 24H2! I highly recommend NOT using StartAllBack, as it will mess up the File Explorer theme. It is paid, although easy to get an infinite trial if need be. But if you can, pay and support the creator, please.
 
 5: Winaerotweaker.com: This includes installers for the Windows 7 version of some windows programs.
