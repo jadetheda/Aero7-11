@@ -42,13 +42,13 @@ DefaultValue=Windows Default
 DefaultValue.MUI=@main.cpl,-1020
 
 [Control Panel\Desktop]
-Wallpaper=%ResourceDir%\Themes\Aero7-11\Wallpaper\Background.jpg
+Wallpaper=%ResourceDir%\Themes\aeroVista-11\Wallpaper\Background.jpg
 TileWallpaper=0
 WallpaperStyle=10
 Pattern=
 
 [VisualStyles]
-Path=%ResourceDir%\Themes\aero7-11\aero7-11 round.msstyles
+Path=%ResourceDir%\Themes\aeroVista-11\aeroVista-11 round.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
 AutoColorization=0
