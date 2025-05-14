@@ -27,7 +27,7 @@ This theme is "Open Source" in that it is open for anyone to use and edit. I do 
 Anyone can create a copy or redistribute this. However, the only stipulation is that it must remain free and that all of the following people must be credited for their contributions to Windows customization:
 
  - teknixstuff: Created the original "Bring Back the Borders!" mod on Windhawk, based on Ittr's uDWM patches.
- - Zee-Ay (Za9-118): Contibuted the Shellstyle dll.
+ - Zee-Ay (Za9-118): Contibuted the Shellstyle dll, and created the Vista Theme.
  - vaporvance: Created the Shellstyle dll in the original Aero10 theme.
  - Ittr: Created the uDWM.dll patch included.
  - SandTechStuff: Updated instuctions for readability.
