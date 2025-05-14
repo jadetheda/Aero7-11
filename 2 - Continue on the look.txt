@@ -11,3 +11,5 @@ This theme pack only tries to change the colors, transparency, and in a few case
 4: StartIsBack++: This works well with ExplorerPatcher until 23H2. DO NOT USE ON 24H2! I highly recommend NOT using StartAllBack, as it will mess up the File Explorer theme. It is paid, although easy to get an infinite trial if need be. But if you can, pay and support the creator, please.
 
 5: Winaerotweaker.com: This includes installers for the Windows 7 version of some windows programs.
+
+6: Classic UAC (Working on Windows 11 24H2!): Bring back the classic UAC. https://github.com/jadetheda/Non-XAML-UAC-Win11
