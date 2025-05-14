@@ -5,7 +5,9 @@
 WHICH THEME DO I USE?
 That depends your preferences:
  - Small title bar buttons will allow smaller buttons, but will look extra small when maximized.
- - Square corners will have square border corners. 
+ - Square corners will have square border corners.
+
+Note that the Windows 7 alt tab menu is now available with aero7-11 round. The Vista theme is also available.
 
 ==========BORDERS==========
 You have two options for borders:
