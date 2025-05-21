@@ -29,3 +29,4 @@ Send,{enter}
 Sleep 250
 Send, {down}
 }
+^+w::Pause

@@ -1,4 +1,5 @@
-﻿; Right click, down, enter, right, backspace backspace, p n g, enter
+﻿;Ctrl+E exports as png
+; Right click, down, enter, right, backspace backspace, p n g, enter
 ^e::
 {
 Send, +{F10}
@@ -9,9 +10,12 @@ Send, {Enter}
 Sleep 2500
 Send, {right} 
 Sleep 250
-Send,{backspace} {backspace}
+Send,{backspace} 
+Sleep 25
+Send,{backspace}
 Sleep 25
 Send, png 
 Sleep 25
 Send,{enter}
 }
+^+w::Pause
